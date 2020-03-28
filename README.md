@@ -10,7 +10,9 @@ Please, reuse these! Use them of examples of what to do _or_ what not to do! But
 please cite me as the author and if you reuse them in promotion of yourself, you must also use
 the license I've chosen, the Creative Commons Attribution-ShareAlike 4.0 International License.
 You are permitted to use these for commercial purposes _UNLESS_ a license in a directory or in
-a file within this repository restricts that. CC-BY-SA-4.0 is simply the _default_ for this repo.
+a file within this repository restricts that. 
+[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html "SPDX identifier and text")
+is simply the _default_ for this repo.
 
 ## Sources
 
