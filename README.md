@@ -24,3 +24,7 @@ accumulated a lot of things not always fit to be published and not always well-s
 created them.
 
 If you spot something unoriginal, call it out _politely_ in an issue so that I can cite it.
+
+## Manager README
+
+I took some time to write out my thoughts at [Colin Dean's managerreadme.com](https://managerreadme.com/readme/colindean/cks3sd) but likely have moved elements of it to this repository in some way.
